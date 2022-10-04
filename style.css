@@ -1,0 +1,28 @@
+ 
+.home{
+width: 1px;
+background-color: black;
+height: 1px;
+padding: 1px;
+
+
+}
+h1{
+    color: aqua;
+    display: none;
+
+}
+.card{
+    background-color: transparent !important;
+     margin: 20px !important;
+ 
+}
+.card-text{
+
+    color: beige !important;
+    display: none  ;
+
+}
+img{
+    display: none;
+}
